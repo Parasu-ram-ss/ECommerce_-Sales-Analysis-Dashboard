@@ -40,6 +40,22 @@ The dataset includes order details, customer information, product categories, sa
 
 •	Support data-driven decision-making
 
-<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Project_Documentation.docx"> Business Requirements </a>
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Business_Requirements_Document.docx"> Business Requirements </a>
+
+
+# Power Bi DashBoard.
+
+Overview Page – KPI summary and sales trends.
+
+Product Performance – Category and product-wise analysis.
+
+Customer & Regional Analysis – Sales distribution and customer insights.
+
+Profit & Discount Analysis – Profit trends and discount impact.
+
+<a href="https://github.com/Parasu-ram-ss/ECommerce_-Sales-Analysis-Dashboard/blob/main/ECommerce_Business_Requirements_Document.docx"> PowerBI File </a>
+
+
+
 
 
